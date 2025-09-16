@@ -36,7 +36,7 @@ TinyML refers to machine learning models optimized to run on resource-constraine
   - Create impulse (signal processing + learning block)
   - Preprocess accelerometer data
   - Train a classification model (e.g., Decision Tree or Neural Network)
-  - Validate model performance using test data
+  - Validate model performance using test data.
 
 ##  Deployment
 - Test the model directly on your smartphone using the Edge Impulse app.
@@ -55,6 +55,9 @@ TinyML refers to machine learning models optimized to run on resource-constraine
 - Add more motion classes (e.g., jump, walk, fall)
 - Deploy on wearable devices or IoT platforms
 - Integrate with alert systems or fitness trackers
+
+##  Project Link
+https://studio.edgeimpulse.com/public/781635/live
 
 ##  License
 This project is open-source under the MIT License.
